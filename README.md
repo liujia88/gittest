@@ -29,7 +29,7 @@
    ```
    ##客户端时间配置
    客户端ntp服务配置
- ```shell
+```shell
     cd /home/work
     git clone git@git.avlyun.org:inf/inf-environments.git
     cd inf-environments/ntp
